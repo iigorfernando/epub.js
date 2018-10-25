@@ -78,8 +78,8 @@
     "event-emitter": "https://github.com/medikoo/event-emitter.git#0.3.5",
     "jszip": "^3.1.5",
     "lodash": "^4.17.10",
-    "marks-pane": "https://github.com/fchasen/marks.git#master",
-    "path-webpack": "0.0.3",
+    "marks": "https://github.com/fchasen/marks.git#master",
+    "path-webpack": "https://github.com/fchasen/path-webpack#master",
     "stream-browserify": "^2.0.1",
     "xmldom": "^0.1.27",
     "@types/jszip": "^3.1.4"
