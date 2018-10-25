@@ -80,7 +80,7 @@
     "lodash": "^4.17.10",
     "marks": "https://github.com/fchasen/marks.git#master",
     "path-webpack": "https://github.com/fchasen/path-webpack#master",
-    "stream-browserify": "^2.0.1",
+    "stream-browserify": "https://github.com/substack/stream-browserify#master",
     "xmldom": "^0.1.27",
     "@types/jszip": "^3.1.4"
   }
